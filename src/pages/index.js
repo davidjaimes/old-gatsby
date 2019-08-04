@@ -10,15 +10,16 @@ const IndexPage = () => {
       <div>
         <div align="center">
         <br/>
-          <p style={{color: "cornflowerblue", fontSize: 50, fontWeight: 'bold'}}>
-            Gatsby Markdown Starter
+          <p style={{color: "#24292e", fontSize: 50, fontWeight: 'bold'}}>
+            Husband. Scientist. Trail Runner.
           </p>
-          <h2>Boilerplate for markdown-based website</h2>
+          <h3>Creativity and imagination are great starting places, but hard-headed thinking and extreme attention to detail are essential to success.</h3>
+          <p>Jet Propulsion Laboratory</p>
           <br/>
           <Link to="/docs/get-started/introduction">
-            <Button type="primary" size="large" style={{marginRight: 10}}>Get Started</Button>
+            <Button type="primary" size="large" style={{marginRight: 10}}>Docs</Button>
           </Link>
-          <Button type="primary" size="large" href="https://github.com/cvluca/gatsby-starter-markdown">Github</Button>
+          <Button type="primary" size="large" href="https://github.com/davidjaimes">Github: @davidjaimes</Button>
         </div>
       </div>
     </Layout>
