@@ -1,4 +1,20 @@
 [
+  {
+    "name": "astro",
+    "link": "/astro/eclipsing-binaries"
+  },
+  {
+    "name": "data",
+    "link": "/data"
+  },
+  {
+    "name": "macOS",
+    "link": "/macOS"
+  },
+  {
+    "name": "run",
+    "link": "/run"
+  },
   { 
     "name": "Docs",
     "link":  "/docs/get-started/introduction"

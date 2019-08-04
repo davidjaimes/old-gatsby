@@ -16,6 +16,9 @@ const IndexPage = () => {
           <h3>Creativity and imagination are great starting places, but hard-headed thinking and extreme attention to detail are essential to success.</h3>
           <p>Jet Propulsion Laboratory</p>
           <br/>
+          <Link to="/astro/eclipsing-binaries">
+            <Button type="primary" size="large" style={{marginRight: 10}}>astro</Button>
+          </Link>
           <Link to="/docs/get-started/introduction">
             <Button type="primary" size="large" style={{marginRight: 10}}>Docs</Button>
           </Link>
