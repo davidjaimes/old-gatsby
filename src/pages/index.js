@@ -19,6 +19,9 @@ const IndexPage = () => {
           <Link to="/docs/get-started/introduction">
             <Button type="primary" size="large" style={{marginRight: 10}}>Docs</Button>
           </Link>
+          <Link to="/blog">
+            <Button type="primary" size="large" style={{marginRight: 10}}>Blog</Button>
+          </Link>
           <Button type="primary" size="large" href="https://github.com/davidjaimes">Github: @davidjaimes</Button>
         </div>
       </div>

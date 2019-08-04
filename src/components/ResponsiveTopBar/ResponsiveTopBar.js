@@ -45,7 +45,7 @@ class ResponsiveTopBar extends Component {
           position: "absolute",
           width: "100%",
           height: 40,
-          background: 'aliceblue',
+          background: '#f2f2f2',
           marginTop: '-20px',
         }}
       >
