@@ -15,7 +15,7 @@ KOI-3570 (aliases: 2MASS J19405783+4009273, KIC 5023948, and WISE J194057.82+400
 ### Getting the data: FITS file
 If you're familiar getting FITS files, then download the data from [Nasa Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu). I downloaded the following batch file ```download_exoarch_27821.bat``` from the archive.
 
-```sh
+```bash
 #!/bin/sh
 
 # If wget is not installed on your system,
@@ -49,7 +49,7 @@ wget -O 'kplr005023948-2012060035710_slc_lc.tbl' 'http://exoplanetarchive.ipac.c
 
 If you don't have the `wget` command installed in your system, then I recommend installing [Homebrew](https://brew.sh/) and using the following command:
 
-```sh
+```batch
 brew install wget
 ```
 
