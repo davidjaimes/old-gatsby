@@ -14,7 +14,7 @@ const IndexPage = () => {
             Husband. Scientist. Trail Runner.
           </p>
           <h3>Creativity and imagination are great starting places, but hard-headed thinking and extreme attention to detail are essential to success.</h3>
-          <p>Jet Propulsion Laboratory</p>
+          <h5>Jet Propulsion Laboratory</h5>
           <br/>
           <Link to="/astro/eclipsing-binaries">
             <Button type="primary" size="large" style={{marginRight: 10}}>astro</Button>
@@ -25,7 +25,10 @@ const IndexPage = () => {
           <Link to="/blog">
             <Button type="primary" size="large" style={{marginRight: 10}}>Blog</Button>
           </Link>
-          <Button type="primary" size="large" href="https://github.com/davidjaimes">Github: @davidjaimes</Button>
+          {/* <Button type="primary" size="large" href="https://github.com/davidjaimes">Github: @davidjaimes</Button> */}
+          <br/><br/><br/>
+          <p>© 2019 David Jaimes.</p>
+          <p>Made with <a href="https://www.gatsbyjs.org">Gatsby</a>. Hosted with <a href="https://github.com">Github</a>.</p>
         </div>
       </div>
     </Layout>
