@@ -1,1 +1,1 @@
-{"data":{"allMenuItems":{"edges":[{"node":{"name":"astro","link":"/astro/eclipsing-binaries"}},{"node":{"name":"data","link":"/data"}},{"node":{"name":"macOS","link":"/macOS"}},{"node":{"name":"run","link":"/run"}},{"node":{"name":"Docs","link":"/docs/get-started/introduction"}},{"node":{"name":"Blog","link":"/blog"}}]}}}
+{"data":{"allMenuItems":{"edges":[{"node":{"name":"astro","link":"/astro/eclipsing-binaries"}},{"node":{"name":"macOS","link":"/macOS"}},{"node":{"name":"run","link":"/run"}},{"node":{"name":"blog","link":"/blog"}}]}}}
