@@ -17,17 +17,11 @@ const IndexPage = () => {
           <h5>Jet Propulsion Laboratory</h5>
           <br/>
           <Link to="/astro/eclipsing-binaries">
-            <Button type="primary" size="large" style={{marginRight: 10}}>astro</Button>
-          </Link>
-          <Link to="/docs/get-started/introduction">
-            <Button type="primary" size="large" style={{marginRight: 10}}>Docs</Button>
-          </Link>
-          <Link to="/blog">
-            <Button type="primary" size="large" style={{marginRight: 10}}>Blog</Button>
+            <Button type="primary" size="large" style={{marginRight: 10}}>Get Started</Button>
           </Link>
           {/* <Button type="primary" size="large" href="https://github.com/davidjaimes">Github: @davidjaimes</Button> */}
           <br/><br/><br/>
-          <p>© 2019 David Jaimes.</p>
+          <p>© 2019 David Jaimes. <Link to="/legal/terms">Terms</Link></p>
           <p>Made with <a href="https://www.gatsbyjs.org">Gatsby</a>. Hosted with <a href="https://github.com">Github</a>.</p>
         </div>
       </div>
