@@ -70,3 +70,10 @@ plt.plot(time, flux, '.', markersize=1)
 
 ## Phase Fold Lightcurve
 Arguably, one of the most important parameters to find for an eclipsing binary star system is the orbital period. There are many ways to find the period around the center of mass and the method I like to use is a multi-term Lomb-Scargle approach. For this system, I used the period published in Brewer et al. 2016. They found an orbital period of 3.649301 days. Phase folding the light curve with this orbital period yields the following plot. The secondary and primary eclipses are at about phase equal to 0.2 and 0.7, respectively.
+
+```python
+period = 3.649301
+phase = (time - time[0]) / period % 1
+plt.plot(phase, flux, '.', markersize=1)
+```
+![koi-3570-phasefold](../../src/images/koi-3570-pflc.png)
