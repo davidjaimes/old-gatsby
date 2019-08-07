@@ -1,6 +1,6 @@
 ---
 title: Terms of Use
-root: "/terms"
+root: "/legal"
 parents: ["Legal"]
 ---
 <h1 align="center">
