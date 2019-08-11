@@ -1,5 +1,13 @@
 [
   {
+    "name": "about",
+    "link": "/about"
+  },
+  {
+    "name": "docs",
+    "link": "/docs/linear-regression"
+  },
+  {
     "name": "astro",
     "link": "/astro/eclipsing-binaries"
   },
