@@ -1,1 +1,1 @@
-{"data":{"allMenuItems":{"edges":[{"node":{"name":"astro","link":"/astro/eclipsing-binaries"}},{"node":{"name":"macOS","link":"/macOS"}},{"node":{"name":"run","link":"/run"}},{"node":{"name":"blog","link":"/blog"}}]}}}
+{"data":{"allMenuItems":{"edges":[{"node":{"name":"about","link":"/about"}},{"node":{"name":"docs","link":"/docs/linear-regression"}},{"node":{"name":"astro","link":"/astro/eclipsing-binaries"}},{"node":{"name":"macOS","link":"/macOS"}},{"node":{"name":"run","link":"/run"}},{"node":{"name":"blog","link":"/blog"}}]}}}
