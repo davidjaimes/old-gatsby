@@ -51,12 +51,12 @@ brew install wget
 ```
 
 ## Lightcurve
-Use [AstroPy][3] to plot a lightcurve (flux vs time) for KOI-3570. I am using `kplr005023948-2012088054726_llc.fits` because it has the greatest amount of data points in any file on the batch list--over 40,000 points.
+Use [AstroPy][3] to plot a lightcurve (flux vs time) for KOI-3570. I am using `kplr005023948-2012060035710_slc.fits` because it has the greatest amount of data points in any file on the batch list--over 40,000 points.
 ```python
 from astropy.io import fits
 import matplotlib.pyplot as plt
 
-hdu = fits.open('kplr005023948-2012088054726_llc.fits')
+hdu = fits.open('kplr005023948-2012060035710_slc.fits')
 time = hdu[1].data['TIME']
 flux = hdu[1].data['SAP_FLUX']
 plt.plot(time, flux, '.', markersize=1)
