@@ -32,7 +32,3 @@ Build Your Running Body | Pete Magill, Thomas Schwartz, and Melissa Breyer
 Legado Astronomico | J. Daniel Flores Guitierrez, Margarita Rosado Solis, y Jose Franco Lopez
 Python for Data Analysis: 2nd Edition | Wes McKinney
 Python Data Science Handbook | Jake VanderPlas
-
-## Location
-Approximate current position.
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d13426.298158110982!2d-117.14412259999999!3d32.723931549999996!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1527215210860" width=100% height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
